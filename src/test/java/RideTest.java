@@ -1,0 +1,15 @@
+import org.junit.Before;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
+public class RideTest {
+
+    Ride ride;
+
+    @Before
+    public void before(){
+
+    }
+
+}
