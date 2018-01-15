@@ -11,33 +11,12 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ThemePark.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ThemePark_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ThemePark_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Ride.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Rollercoaster.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/RideTest.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/RollercoasterTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dodgem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Ride.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/DodgemTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/RideTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RideTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,19 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RideTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/RideTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -92,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rollercoaster.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rollercoaster.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -780,6 +747,14 @@
       <option name="presentableId" value="Default" />
       <updated>1516044688611</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created a Ride abstract class and two specific rides to extend from it.  The Ride class has properties of type, price, minimumAge and minimumHeightInCentimetres.  It also declares an abstract ride method that it implemented by the two extending classes.">
+      <created>1516049510110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516049510110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -851,21 +826,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a Ride abstract class and two specific rides to extend from it.  The Ride class has properties of type, price, minimumAge and minimumHeightInCentimetres.  It also declares an abstract ride method that it implemented by the two extending classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a Ride abstract class and two specific rides to extend from it.  The Ride class has properties of type, price, minimumAge and minimumHeightInCentimetres.  It also declares an abstract ride method that it implemented by the two extending classes." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/RideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ride.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -916,6 +885,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RideTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -934,17 +922,6 @@
             <element signature="e#711#712#0" expanded="true" />
             <element signature="e#773#774#0" expanded="true" />
             <element signature="e#834#835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>
