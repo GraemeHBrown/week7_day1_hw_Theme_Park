@@ -1,11 +1,11 @@
 public abstract class Ride {
 
     private String type;
-    private float price;
+    private double price;
     private int minimumAge;
     private int minimumHeightInCentimetres;
 
-    public Ride(String type, float price, int minimumAge, int minimumHeightInCentimetres){
+    public Ride(String type, double price, int minimumAge, int minimumHeightInCentimetres){
         this.type = type;
         this.price = price;
         this.minimumAge = minimumAge;
@@ -23,11 +23,11 @@ public abstract class Ride {
         return this.minimumAge;
     }
 
-    public float getMinimumHeight() {
+    public int getMinimumHeight() {
         return this.minimumHeightInCentimetres;
     }
 
-    public float getPrice() {
+    public double getPrice() {
         return this.price;
     }
 }

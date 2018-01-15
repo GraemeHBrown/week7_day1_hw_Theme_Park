@@ -1,7 +1,7 @@
 public class Dodgem extends Ride{
 
 
-    public Dodgem(String type, float price, int minimumAge, int minimumHeightInCentimetres) {
+    public Dodgem(String type, double price, int minimumAge, int minimumHeightInCentimetres) {
         super(type, price, minimumAge, minimumHeightInCentimetres);
     }
 

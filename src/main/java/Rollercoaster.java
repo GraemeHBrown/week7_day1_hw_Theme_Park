@@ -1,7 +1,7 @@
 public class Rollercoaster extends Ride {
 
 
-    public Rollercoaster(String type, float price, int minimumAge, int minimumHeightInCentimetres) {
+    public Rollercoaster(String type, double price, int minimumAge, int minimumHeightInCentimetres) {
         super(type, price, minimumAge, minimumHeightInCentimetres);
     }
 
