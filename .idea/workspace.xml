@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bfa9748-ff0d-4e7a-8ccc-a5dd3454d378" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileChanges/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Ride.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Rollercoaster.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/RideTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/RollercoasterTest.class" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RideTest.java" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Child.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ChildTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RideTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -59,11 +50,61 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding>
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChildTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ChildTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="51" lean-forward="false" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Child.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Rollercoaster.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="247">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="e#259#260#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
@@ -118,8 +159,8 @@
       <file leaf-file-name="Dodgem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Dodgem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#244#245#0" expanded="true" />
                 <element signature="e#281#282#0" expanded="true" />
@@ -438,6 +479,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Dodgem.java" />
         <option value="$PROJECT_DIR$/src/test/java/DodgemTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ChildTest.java" />
       </list>
     </option>
   </component>
@@ -576,6 +621,26 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="ChildTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ThemePark_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChildTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ThemePark_test" />
@@ -625,26 +690,6 @@
       <option name="MAIN_CLASS_NAME" value="RollercoasterTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="RollercoasterTest.coasterRideBehaviour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="ThemePark_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RollercoasterTest" />
-      <option name="METHOD_NAME" value="coasterRideBehaviour" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -719,17 +764,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.RollercoasterTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.All in ThemePark_test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RollercoasterTest.coasterRideBehaviour" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DodgemTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DodgemTest.dodgemHasSpecificRideBehaviour" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DodgemTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DodgemTest.dodgemHasSpecificRideBehaviour" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ChildTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.All in ThemePark_test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DodgemTest.dodgemHasSpecificRideBehaviour" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RollercoasterTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.DodgemTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RollercoasterTest.coasterRideBehaviour" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ChildTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DodgemTest.dodgemHasSpecificRideBehaviour" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RollercoasterTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DodgemTest" />
       </list>
     </recent_temporary>
   </component>
@@ -754,16 +799,17 @@
       <option name="project" value="LOCAL" />
       <updated>1516049510110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RideTest removed as the behaviour was tested in the concrete classes representing the ride types.">
+      <created>1516049660347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516049660347</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ThemePark_test - 2018.01.15 at 20h 30m 21s.xml">
-      <configuration name="All in ThemePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ThemePark_test - 2018.01.15 at 20h 34m 13s.xml">
-      <configuration name="All in ThemePark_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_ThemePark_test - 2018.01.15 at 20h 37m 15s.xml">
       <configuration name="All in ThemePark_test" configurationId="JUnit" />
     </history-entry>
@@ -773,17 +819,23 @@
     <history-entry file="All_in_ThemePark_test - 2018.01.15 at 20h 47m 56s.xml">
       <configuration name="All in ThemePark_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DodgemTest - 2018.01.15 at 20h 30m 16s.xml">
-      <configuration name="DodgemTest" configurationId="JUnit" />
+    <history-entry file="All_in_ThemePark_test - 2018.01.15 at 21h 13m 50s.xml">
+      <configuration name="All in ThemePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChildTest - 2018.01.15 at 21h 10m 46s.xml">
+      <configuration name="ChildTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChildTest - 2018.01.15 at 21h 10m 57s.xml">
+      <configuration name="ChildTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChildTest - 2018.01.15 at 21h 12m 00s.xml">
+      <configuration name="ChildTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChildTest - 2018.01.15 at 21h 12m 57s.xml">
+      <configuration name="ChildTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DodgemTest_dodgemHasSpecificRideBehaviour - 2018.01.15 at 20h 46m 51s.xml">
       <configuration name="DodgemTest.dodgemHasSpecificRideBehaviour" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest - 2018.01.15 at 20h 23m 36s.xml">
-      <configuration name="RollercoasterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest - 2018.01.15 at 20h 35m 51s.xml">
-      <configuration name="RollercoasterTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RollercoasterTest - 2018.01.15 at 20h 36m 05s.xml">
       <configuration name="RollercoasterTest" configurationId="JUnit" />
@@ -801,7 +853,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -828,41 +880,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a Ride abstract class and two specific rides to extend from it.  The Ride class has properties of type, price, minimumAge and minimumHeightInCentimetres.  It also declares an abstract ride method that it implemented by the two extending classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Ride abstract class and two specific rides to extend from it.  The Ride class has properties of type, price, minimumAge and minimumHeightInCentimetres.  It also declares an abstract ride method that it implemented by the two extending classes." />
+    <MESSAGE value="RideTest removed as the behaviour was tested in the concrete classes representing the ride types." />
+    <option name="LAST_COMMIT_MESSAGE" value="RideTest removed as the behaviour was tested in the concrete classes representing the ride types." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ride.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DodgemTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
@@ -881,17 +906,6 @@
             <element signature="e#671#672#0" expanded="true" />
             <element signature="e#732#733#0" expanded="true" />
             <element signature="e#791#792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -922,6 +936,89 @@
             <element signature="e#711#712#0" expanded="true" />
             <element signature="e#773#774#0" expanded="true" />
             <element signature="e#834#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChildTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="51" lean-forward="false" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
